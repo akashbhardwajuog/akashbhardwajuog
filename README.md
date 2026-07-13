@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**akashbhardwajuog/akashbhardwajuog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I am Akash Bhardwaj 
+ 
+I am an MSc Precision Medicine candidate at the University of Glasgow and a Pharmacy graduate. 
+ 
+## Interests 
+- Biomedical data analysis 
+- Genomics and transcriptomics 
+- Cancer biology 
+- Precision medicine 
+- Pharmacology and drug safety 
+- Reproducible research 
+ 
+## Current learning focus 
+- R/RStudio for biomedical data analysis 
+- RNA-seq quality control and differential-expression analysis 
+- Linux/Bash and Git/GitHub 
+- Single-cell RNA-seq analysis 
+ 
+## Portfolio 
+I am building reproducible projects using public biomedical datasets. Each project includes a research question, documented workflow, analysis code, visualisations, interpretation and limitations. 
