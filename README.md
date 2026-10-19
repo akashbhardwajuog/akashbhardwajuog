@@ -1,6 +1,6 @@
 # Hi, I am Akash Bhardwaj 
  
-I am an MSc Precision Medicine candidate at the University of Glasgow and a Pharmacy graduate. 
+I am an MSc Precision Medicine graduate from University of Glasgow with Pharmaceutical and Bioinformatics Background. 
  
 ## Interests 
 - Biomedical data analysis 
